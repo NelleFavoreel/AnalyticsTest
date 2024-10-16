@@ -17,7 +17,7 @@ function App() {
 					<Link to="/home">Ga naar Home</Link>
 				</div>
 			</div> */}
-			<BrowserRouter>
+			<BrowserRouter basename="/AnalyticsTest">
 				<Routes>
 					<Route path="/" element={<Layout />}>
 						<Route index element={<Home />} />
