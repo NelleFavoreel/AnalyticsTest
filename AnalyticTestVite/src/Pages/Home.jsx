@@ -1,8 +1,11 @@
 function Home() {
 	return (
-		<div>
-			<h2>Navigation</h2>
-			<p>Comming soon... 👉</p>
+		<div className="head">
+			<h1>Website home</h1>
+			<div className="buttons">
+				<button>Klik hier</button>
+				<button>Of hier!</button>
+			</div>
 		</div>
 	);
 }
