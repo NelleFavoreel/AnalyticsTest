@@ -1,8 +1,9 @@
+import Mymap from "../Components/Map";
+
 function Explenation() {
 	return (
 		<div>
-			<h2>Explenation</h2>
-			<p>Comming soon... 👉</p>
+			<Mymap></Mymap>
 		</div>
 	);
 }

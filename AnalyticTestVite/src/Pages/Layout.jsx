@@ -10,7 +10,7 @@ function Layout() {
 							<Link to="/">Home</Link>
 						</li>
 						<li>
-							<Link to="/Explenation">Explenation</Link>
+							<Link to="/Explenation">Kaart</Link>
 						</li>
 					</ul>
 				</div>

@@ -5,6 +5,7 @@ import "./App.css";
 import Home from "./Pages/Home.jsx";
 import Explenation from "./Pages/Explenation.jsx";
 import Layout from "./Pages/Layout.jsx";
+import Database from "../src/ConnectionMongoDB.jsx";
 
 function App() {
 	return (
